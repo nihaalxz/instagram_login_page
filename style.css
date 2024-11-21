@@ -1,0 +1,167 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body
+{
+    background-color: aliceblue;
+}
+.mobile_screen
+{
+    position: relative;
+    width: 40%;
+    left: 25%;
+    margin-top:5%;
+    
+}
+
+.mobiles
+{
+    height:65vh;
+    width: 25vw;
+
+}
+.img_mobile
+{
+    height:47vh;
+    width: 14vw;
+    position: absolute;
+    top: 15.2%;
+    left: 20%;
+    opacity: 0.6; 
+
+}
+.img_mobiles
+{
+    height:47vh;
+    width: 14vw;
+    position: absolute;
+    top: 15.2%;
+    left:20%;
+     opacity: 0.7; 
+    z-index: 1;
+
+}
+.forms
+{
+    height: 43vh;
+    width: 25vw;
+    background-color: #ffffff;
+    position: absolute;
+    left: 50%;
+    top:13%;
+    outline:1px solid rgb(163, 163, 163);
+    padding: 10px;
+}
+#insta_logo
+{
+    margin-top: 20px;
+    height: 30%;
+    width: 40%;
+   
+}
+
+.input_form
+{
+    height: 30px;
+    width: 15vw;
+    margin:0 auto;
+    margin-top:10px;
+    border-radius: 3px;
+
+}
+#form_1,#form_2
+{
+    border:0.5px solid rgb(182, 182, 182);
+    height: 4.5vh;
+    width: 17vw;
+}
+
+.show_btn
+{
+    position: relative;
+    left:90.8%;
+    bottom: 118%;
+    height: 4.5vh;
+    width: 3.5vw;
+    background-color: hsl(0, 0%, 100%);
+    border: none;
+    outline:0.5px solid rgb(182, 182, 182);
+    font-weight: 500;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+#login_btn
+{
+    background-color: hsl(209, 89%, 48%);
+    border:none;
+    color:white;
+    border-radius: 3px;
+    width: 17.2vw;
+    margin-top:20px;
+}
+.sign_up
+{
+    position:absolute;
+    left: 20%;
+    top:30%;
+}
+
+.loginwithb
+{
+    position: relative;
+    left: 30px;
+    bottom: 25px;
+    color: hsl(221, 98%, 26%);
+    text-align: center;
+}
+.or
+{
+    text-align: center; 
+    margin-top: 25px; 
+    color:grey
+}
+.fblogo
+{
+    position: relative;
+    left: 10%;
+}
+.forgotten_pswrd
+{
+    text-align: center;
+    color: hsl(221, 98%, 26%);  
+}
+.second_login
+{
+    margin-top: 30px;
+    background-color: white;
+    outline:1px solid rgb(163, 163, 163);
+    position:absolute;
+    left:0px;
+    width: 26.35vw;
+    height: 7vh;
+
+}
+.getapp
+{
+    position: absolute;
+    left: 60%;
+    bottom: 29%;
+}
+
+.gplay,.appstore
+{
+    height: 5vh;
+    width: 8vw;
+    position: relative;
+    left: 55%;
+    bottom:14px;
+}
+.footer_txt
+{
+    text-align: center;
+    padding:10px;
+    color: hsl(0, 0%, 53%);
+}
